@@ -7,6 +7,7 @@ fun main() {
     rotozey(list)
     securityAgency(list)
     crazyShopper(list)
+
 }
 
 data class Cars(
